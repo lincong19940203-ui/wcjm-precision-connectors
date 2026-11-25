@@ -1,6 +1,16 @@
 # WCJM — Weicheng Precision Electronics (Kunshan) Co., Ltd.
 
-> Precision electronic connector manufacturer in Kunshan, Jiangsu, China (founded 2021). Integrated in-house mold tooling, high-speed progressive stamping, precision injection molding, automated assembly, 100% AOI vision inspection, and Group A–G reliability testing laboratory. Supporting OEM and EMS hardware teams with engineering samples, 2D PCB footprint drawings, and 3D STEP CAD models.
+> **Intertek IATF 16949:2016 & ISO 9001:2015 Certified** precision electronic connector manufacturer in Kunshan, Jiangsu, China (founded 2021). Integrated in-house mold tooling, high-speed progressive stamping, precision injection molding, automated assembly, 100% AOI vision inspection, and Group A–G reliability testing laboratory. Supporting OEM and EMS hardware teams with engineering samples, 2D PCB footprint drawings, and controlled 3D STEP CAD models.
+
+## Quality Certifications & Master Catalog Downloads
+- **IATF 16949:2016 Certificate**: `IATF #0525979` / `Intertek #2024-0296` (Valid until 2027-06-24) — [Official PDF](https://www.wcjmconnect.com/certificates/wcjm-iatf16949-2016-certificate.pdf)
+- **ISO 9001:2015 Certificate**: `Intertek #112105019` (`UKAS 0014`, Valid until 2027-06-16) — [Official PDF](https://www.wcjmconnect.com/certificates/wcjm-iso9001-2015-certificate.pdf)
+- **2026 Master Product Selection Catalog (105 Pages, PDF)**:
+    - [English Edition (PDF)](https://www.wcjmconnect.com/catalog/WCJM_Product_Catalog_2026_EN.pdf)
+    - [Korean Edition / 한국어 카탈로그 (PDF)](https://www.wcjmconnect.com/catalog/WCJM_Product_Catalog_2026_KO.pdf)
+    - [Vietnamese Edition / Danh mục Tiếng Việt (PDF)](https://www.wcjmconnect.com/catalog/WCJM_Product_Catalog_2026_VI.pdf)
+- **Second-Source Connector Footprint & Stack-Height Verification Guide**:
+    - [English](https://www.wcjmconnect.com/cms/precision-connector-second-source-import-guide) · [Deutsch](https://www.wcjmconnect.com/de/cms/precision-connector-second-source-import-guide) · [Español](https://www.wcjmconnect.com/es/cms/precision-connector-second-source-import-guide) · [日本語](https://www.wcjmconnect.com/ja/cms/precision-connector-second-source-import-guide) · [Tiếng Việt](https://www.wcjmconnect.com/vi/cms/precision-connector-second-source-import-guide) · [한국어](https://www.wcjmconnect.com/ko/cms/precision-connector-second-source-import-guide)
 
 ## Engineering Contact & Sample / CAD Requests
 - Website: https://www.wcjmconnect.com/
@@ -28,8 +38,8 @@
 - [RF Coaxial Connectors](https://www.wcjmconnect.com/products/rf): Ultra-compact board-mount RF coaxial receptacles for wireless antennas and modules (CRF001, CRF002)
 
 ## Manufacturing, Testing & Technical Resources
-- [Manufacturing & Reliability Lab](https://www.wcjmconnect.com/factory/manufacturing-quality): In-house Group A–G testing (temperature rise, mating durability, vibration/shock, high-temp electrical, thermal shock/humidity, salt spray)
-- [Applications](https://www.wcjmconnect.com/applications): Automotive sensing (cameras, LiDAR, radar, ECUs), industrial PLC/servo drives/HMI, displays, robotics, and compact smart devices
+- [Manufacturing & Reliability Lab](https://www.wcjmconnect.com/factory/manufacturing-quality): Intertek IATF 16949:2016 & ISO 9001:2015 certified facility; in-house Group A–G testing (temperature rise, mating durability, vibration/shock, high-temp electrical, thermal shock/humidity, salt spray)
+- [Applications](https://www.wcjmconnect.com/applications): Sensing (cameras, LiDAR, radar, ECUs), industrial PLC/servo drives/HMI, displays, robotics, and compact smart devices
 - [Technical Selection Guides & News](https://www.wcjmconnect.com/resources): Engineering articles on stack height calculation, SMT reflow footprint design, floating tolerance budgets, and sample qualification
 
 ---
